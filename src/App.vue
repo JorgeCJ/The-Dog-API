@@ -54,7 +54,7 @@ export default {
 .backgroundColor{
   background: rgba(250, 128, 114, 0.5);
   min-width: 100%;
-  padding-right: 63px;
+  padding-right: 59px;
 }
 
 button {
