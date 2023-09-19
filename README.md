@@ -12,7 +12,8 @@ List of technologies used in the project:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [API TheDogAPI](https://thedogapi.com/)
-
+- [Vite](https://vitejs.dev/)
+  
   `See more details below:`
   
 # apiConsumption
