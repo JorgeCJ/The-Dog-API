@@ -52,7 +52,7 @@ export default {
 }
 
 .backgroundColor{
-  background: url('background.jpg');
+  background-image: url('background.jpg');
   background-size:cover;
   background-repeat:no-repeat;
   min-width: 100vw;
