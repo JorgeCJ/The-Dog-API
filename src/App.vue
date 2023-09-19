@@ -53,10 +53,7 @@ export default {
 
 .backgroundColor{
   background: rgba(250, 128, 114, 0.5);
-  //background-image: url('background.jpg');
-  background-size:cover;
-  background-repeat:no-repeat;
-  min-width: 100vw;
+  min-width: 100%;
   padding-right: 40px;
 }
 
